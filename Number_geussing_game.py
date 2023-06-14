@@ -2,7 +2,7 @@ import time
 import random
 
 print('Game Starting..')
-time.sleep(5)
+time.sleep(2)
 lower_bound=int(input(' Give your lower bound range'))
 upper_bound=int(input(' Give your upper bound range'))
 
