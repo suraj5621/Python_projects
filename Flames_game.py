@@ -29,64 +29,6 @@ while len(res) > 1 :
             res = right + left  
         else :  
             res = res[ : len(res) - 1]  
-  
-    # print final result  
 print("Relationship Status :", res[0])  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# # print(listing[(total_length % 6)-1])
-# value=total_length % len(listing)
-# if value==len(listing):
-#         k=0
-# else:
-#         k=value-1
-# listing.pop(value-1)
-
-# print(listing)
-# print(k)
-# while len(listing)!=1:
-#     value=((k+total_length)%len(listing))
-#     listing.pop(value)
-#     if value==len(listing):
-#         k=0
-#     else:
-#         k=value-1
-        
-    
-#     print(listing)
-#     print(k)
-
-
-            
-        # suraj omar friend
-        # krati gupta marragie
-        # chandan suraj lover
-        # chandan omar
-        # anamika gaurav
-        
