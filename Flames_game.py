@@ -1,6 +1,6 @@
 import time
 print('Entering in Flames Game...  ')
-# time.sleep(2)
+time.sleep(2)
 other_name=input('Enter your other name  ')
 your_name=input('Enter your name  ')
 other_list=list(other_name)
