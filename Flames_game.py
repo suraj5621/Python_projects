@@ -17,20 +17,7 @@ while i< len(other_list):
 
 total_length=len(your_list) + len(other_list) - (c)
 print('total length ', total_length)
-# print(your_list, other_list,c)
-# listing=['friends ', 'lovers ' , 'affectionate ' , 'marriage' , 'enemies' , 'siblings']
-# k=0
-# print(listing)
-# while len(listing)>1:
-#     index=((total_length+k)%len(listing))
-#     print('index  ',index)
-#     if index==len(listing):
-#         k=0
-#     else:
-#         k=index-1
-#     print('value of k  ',k)
-#     listing.pop(index-1)    
-#     print(listing)
+
 
 res = ["Friends", "Lovers", "Affectionate", "Marriage", "Enemies", "Siblings"]  
   
